@@ -1,0 +1,31 @@
+header {
+	background-color: black;
+}
+h2 {
+	color: red;
+	padding-bottom: 5px;
+	padding-left: 3px;
+	text-align: center;
+}
+body {
+	background-color: white;
+}
+.h3 {
+	color: red;
+	padding-bottom: 5px;
+	padding-left: 3px;
+	text-align: center;
+}
+.buttons {
+	background-color: beige;
+	padding-top: 5px;
+	padding-left: 15px;
+	padding-bottom: 4px;
+}
+button {
+	cursor: pointer;
+}
+.set {
+	color: blue;
+	text-align: center;
+}
